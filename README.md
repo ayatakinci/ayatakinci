@@ -21,9 +21,9 @@ As a frontend developer most of my time I coding with JavaScript .
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
-[![webpack] (https://badges.aleen42.com/src/webpack.svg)
-[![npm] (https://badges.aleen42.com/src/npm.svg)
-[![visual_studio_code] (https://badges.aleen42.com/src/visual_studio_code.svg)
+[![webpack](https://badges.aleen42.com/src/webpack.svg)
+[![npm](https://badges.aleen42.com/src/npm.svg)
+[![visual_studio_code](https://badges.aleen42.com/src/visual_studio_code.svg)
 
 ## 🥳 Some of my projects
 
@@ -31,7 +31,7 @@ As a frontend developer most of my time I coding with JavaScript .
 - [Weather forecast app](https://github.com/ayat0110/Weather-forecast-app) - **Recommended** ✨
 - [Todo List app](https://github.com/ayat0110/Todo-List-app) 
 
-## 📃 Latest IG Posts [![instagram] (https://badges.aleen42.com/src/instagram.svg) 
+## 📃 Latest IG Posts [![instagram](https://badges.aleen42.com/src/instagram.svg) 
 
 <!-- BLOG-POST-LIST:START -->
 - [What projects should i build as a frontend developer? ](https://www.instagram.com/p/CSCG9qvjIeN/)
