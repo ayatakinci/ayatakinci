@@ -43,7 +43,13 @@ As a frontend developer most of my time I coding with JavaScript .
 ## Developer/Forums
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-
+## Work/Jobs
+![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
+![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
+## Hosting/SaaS
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ## 🥳 Some of my projects
 
@@ -51,7 +57,7 @@ As a frontend developer most of my time I coding with JavaScript .
 - [Weather forecast app](https://github.com/ayat0110/Weather-forecast-app) - **Recommended** ✨
 - [Todo List app](https://github.com/ayat0110/Todo-List-app) 
 
-## 📃 Latest IG Posts [![instagram](https://badges.aleen42.com/src/instagram.svg) 
+## 📃 Latest IG Posts ![instagram](https://badges.aleen42.com/src/instagram.svg) 
 
 <!-- BLOG-POST-LIST:START -->
 - [What projects should i build as a frontend developer? ](https://www.instagram.com/p/CSCG9qvjIeN/)
