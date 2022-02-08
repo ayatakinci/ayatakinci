@@ -55,7 +55,8 @@ As a frontend developer i prioritize most of my time for Javascript .
 
 - [EasyBank Landing page](https://github.com/ayat0110/EasyBank-Landing-page) - **Recommended** ✨
 - [Weather forecast app](https://github.com/ayat0110/Weather-forecast-app) - **Recommended** ✨
-- [Todo List app](https://github.com/ayat0110/Todo-List-app) 
+- [15 Javascript projects](https://github.com/ayat0110/15-JavaScript-Projects) 
+- [Starbucks-Landing-Page](https://github.com/ayat0110/Starbucks-Landing-Page-) 
 
 ## 📃 Latest IG Posts ![instagram](https://badges.aleen42.com/src/instagram.svg) 
 
