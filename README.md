@@ -10,7 +10,7 @@ You can check out some of my projects and if you got any questions you can reach
 
 ## 💫 What programming languages I like
 
-As a frontend developer i prioritize most of my time for Javascript,React and redux .
+As a frontend developer i prioritize most of my time for Javascript,Vue and Nuxt js .
   
 <h5>⭐️Languages and Tools</h5>
 
