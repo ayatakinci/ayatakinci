@@ -4,7 +4,7 @@
 
 ## 🍊 Ayat 's Github Profile
 I am Ayat, I’m a Front End developer who’s building unique websites and always been motivated to constantly improve my skills and improve myself professionally. 
-I learn fast and can adapt quickly to teamwork . I specialize in JavaScript and creating projects with React js .
+I learn fast and can adapt quickly to teamwork . I specialize in JavaScript and creating projects with React js,Vue js and lately working with Nuxt js .
 I'm also a content creator influencer/Mentor on social media sharing tips and resources for learning how to code.
 You can check out some of my projects and if you got any questions you can reach out in the links below.  
 
