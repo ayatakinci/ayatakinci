@@ -53,7 +53,7 @@ As a frontend developer i prioritize most of my time for Javascript,Vue and Nuxt
 
 ## 🥳 Some of my projects
 
-- [EasyBank Landing page](https://raw.githack.com/ayat0110/EasyBank-Landing-page/main/index.html) - **Recommended** ✨
+- [EasyBank Landing page](https://raw.githack.com/ayat0110/EasyBank-Landing-page/main/index.html) - **Recommended** ✨demo:https://ayat0110.github.io/
 - [Weather forecast app](https://raw.githack.com/ayat0110/Weather-forecast-app/main/index.html) - **Recommended** ✨
 - [15 Javascript projects](https://github.com/ayat0110/15-JavaScript-Projects) 
 - [Starbucks-Landing-Page](https://raw.githack.com/ayat0110/Starbucks-Landing-Page-/main/index.html) 
