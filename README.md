@@ -11,9 +11,10 @@ As an influencer and mentor, I share my knowledge and resources on social media 
 ## 🥳 Some of my projects
 
 - [EasyBank Landing page](https://raw.githack.com/ayat0110/EasyBank-Landing-page/main/index.html) - **Recommended** ✨demo:https://ayat0110.github.io/
-- [Weather forecast app](https://raw.githack.com/ayat0110/Weather-forecast-app/main/index.html) - **Recommended** ✨
+- [Vue 3 E-Commere](https://github.com/ayat0110/Vue-3-Store) - **Recommended** ✨
 - [15 Javascript projects](https://github.com/ayat0110/15-JavaScript-Projects) 
-- [Starbucks-Landing-Page](https://raw.githack.com/ayat0110/Starbucks-Landing-Page-/main/index.html) 
+- [Starbucks Landing Page](https://raw.githack.com/ayat0110/Starbucks-Landing-Page-/main/index.html) 
+- [Vue 3 Quiz App](https://github.com/ayat0110/Vue-3-Quiz-App) 
 
 ## 📃 Latest IG Posts ![instagram](https://badges.aleen42.com/src/instagram.svg) 
 
