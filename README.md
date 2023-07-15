@@ -1,7 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=ayat0110&show_icons=true&theme=dracula">
 
 # 🚀Hello Devs
-
+- [My portfolio ](https://ayat-alzaidi.netlify.app/)
 ## 🍊 Ayat 's Github Profile
 Hello, I'm Ayat, a skilled Front-End Developer with a passion for building unique and engaging websites. I have a proven track record of constantly improving my skills to stay at the forefront of the industry. My experience in JavaScript, React.js, Vue.js, and Nuxt.js allows me to create exceptional projects that deliver a seamless user experience. I excel in teamwork and have a quick learning curve, making me an asset to any project.
 
@@ -10,15 +10,16 @@ As an influencer and mentor, I share my knowledge and resources on social media 
 
 ## 🥳 Some of my projects
 
-- [EasyBank Landing page](https://raw.githack.com/ayat0110/EasyBank-Landing-page/main/index.html) - **Recommended** ✨demo:https://ayat0110.github.io/
-- [Vue 3 E-Commere](https://github.com/ayat0110/Vue-3-Store) - **Recommended** ✨
+- [Real Time Messaging Application](https://github.com/ayat0110/Real-Time-Messaging-Application) - **Recommended** ✨
+- [Interactive Analytics Dashboard System](https://github.com/ayat0110/Interactive-Analytics-Dashboard-System) - **Recommended** ✨
 - [15 Javascript projects](https://github.com/ayat0110/15-JavaScript-Projects) 
-- [Starbucks Landing Page](https://raw.githack.com/ayat0110/Starbucks-Landing-Page-/main/index.html) 
-- [Vue 3 Quiz App](https://github.com/ayat0110/Vue-3-Quiz-App) 
+- [NFT and Digital Art Trading Marketplace ](https://github.com/ayat0110/NFT-and-Digital-Art-Trading-Marketplace) 
+- [Vue 3 Quiz App](https://github.com/ayat0110/Vue-3-Quiz-App)
 
 ## 📃 Latest IG Posts ![instagram](https://badges.aleen42.com/src/instagram.svg) 
 
 <!-- BLOG-POST-LIST:START -->
+- [Decoding javascript: event loop](https://www.instagram.com/p/CuMpOAnNhZt/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
 - [What projects should i build as a frontend developer? ](https://www.instagram.com/p/CSCG9qvjIeN/)
 - [Did you ever asked yourself how much JS should i knew as a frontend developer ?](https://www.instagram.com/p/CRwEstCjVvf/)
 - [Should a frontend developer know DS&A ?](https://www.instagram.com/p/CRgnp-AjBd5/)
