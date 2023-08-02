@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ayat0110&show_icons=true&theme=dracula">
+
 
 # 🚀Hello Devs
 - [My portfolio ](https://ayat-alzaidi.netlify.app/)
