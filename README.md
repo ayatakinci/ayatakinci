@@ -1,6 +1,6 @@
 
 
-# 🚀Hello Devs
+# ![visitors](https://visitor-badge.glitch.me/badge?page_id=ayat0110.ayat0110)
 - [My portfolio ](https://ayat-alzaidi.netlify.app/)
 ## 🍊 Ayat 's Github Profile
 Hello, I'm Ayat, a skilled Front-End Developer with a passion for building unique and engaging websites. I have a proven track record of constantly improving my skills to stay at the forefront of the industry. My experience in JavaScript, React.js, Vue.js, and Nuxt.js allows me to create exceptional projects that deliver a seamless user experience. I excel in teamwork and have a quick learning curve, making me an asset to any project.
