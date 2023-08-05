@@ -1,6 +1,10 @@
 
 
-# > Hi there, I'm Ayat Alzaidi <img src="https://user-images.githubusercontent.com/74038190/216124356-9c152f5b-554d-400c-a2f3-84f0f0b9a627.png" alt="Face with Hand Over Mouth" width="50" />
+# > Hi there, I'm Ayat Alzaidi <img
+  src="https://github.com/ayat0110/ayat0110/assets/76471156/2c1953c9-4299-48ee-ac17-734d388c0841"
+  width="25"
+  height="25"
+/>
 - [My Portfolio ](https://ayat-alzaidi.netlify.app/)
 
 Welcome to my profile! I'm just a random nerdy human being who like to write complex code and cry and yes I wear glasses, with a Bachelor's degree in Computer Engineering(yes I spent 4 years at hell but I manged to stay at the top). Here's a glimpse of tech cool stuff I'm working on at the moment:
