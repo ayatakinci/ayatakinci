@@ -10,6 +10,7 @@ Welcome to my profile! I'm just a random nerdy human being who like to write com
 - 💬 Ask me about HTML5, CSS3, JavaScript, TypeScript, Git, Vue.js, Node.js, React, Python, Linux, Computer Networks and a bunch of stuff(don't ask me).
 - ⚡ Fun fact: I cry when I see a fat error in the console and then I usually find the solution of it when I'm in the shower also crying.
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" align="right">
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ayat0110&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
 ## 🍊 Ayat 's Github Profile
