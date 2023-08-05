@@ -40,23 +40,19 @@ Here are some of my recent projects that you might find interesting:
 
 Here are some of my recent projects that you might find interesting:
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <div>
-    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=Real-Time-Messaging-Application)](https://github.com/ayat0110/Real-Time-Messaging-Application) - **Recommended** ✨
-  </div>
-  <div>
-    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=Interactive-Analytics-Dashboard-System)](https://github.com/ayat0110/Interactive-Analytics-Dashboard-System) - **Recommended** ✨
-  </div>
-</div>
+# My Awesome Projects
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <div>
-    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=15-JavaScript-Projects)](https://github.com/ayat0110/15-JavaScript-Projects)
-  </div>
-  <div>
-    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=NFT-and-Digital-Art-Trading-Marketplace)](https://github.com/ayat0110/NFT-and-Digital-Art-Trading-Marketplace)
-  </div>
-</div>
+Here are some of my recent projects that you might find interesting:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=Real-Time-Messaging-Application)](https://github.com/ayat0110/Real-Time-Messaging-Application) - **Recommended** ✨
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=Interactive-Analytics-Dashboard-System)](https://github.com/ayat0110/Interactive-Analytics-Dashboard-System) - **Recommended** ✨
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=15-JavaScript-Projects)](https://github.com/ayat0110/15-JavaScript-Projects)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=NFT-and-Digital-Art-Trading-Marketplace)](https://github.com/ayat0110/NFT-and-Digital-Art-Trading-Marketplace)
+
+
 
 
 
