@@ -30,15 +30,21 @@ I am the founder of the thriving community, FrontendSimply, which now connects o
 As an influencer and mentor, I share my knowledge and resources on social media to help aspiring developers learn how to code. My goal is to guide and motivate others to reach their full potential in this ever-evolving industry. Feel free to check out my projects and connect with me if you have any questions or are interested in collaborating.
 <img src="https://myreadme.vercel.app/api/embed/ayat0110?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-## 🥳 Some of my projects
+## 🥳 Some of my work
 
-- [Real Time Messaging Application](https://github.com/ayat0110/Real-Time-Messaging-Application) - **Recommended** ✨
-- [Interactive Analytics Dashboard System](https://github.com/ayat0110/Interactive-Analytics-Dashboard-System) - **Recommended** ✨
-- [15 Javascript projects](https://github.com/ayat0110/15-JavaScript-Projects) 
-- [NFT and Digital Art Trading Marketplace ](https://github.com/ayat0110/NFT-and-Digital-Art-Trading-Marketplace) 
-- [Vue 3 Quiz App](https://github.com/ayat0110/Vue-3-Quiz-App)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/ayat0110/Real-Time-Messaging-Application)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/ayat0110/Interactive-Analytics-Dashboard-System)
+# My Awesome Projects
+
+Here are some of my recent projects that you might find interesting:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=Real-Time-Messaging-Application)](https://github.com/ayat0110/Real-Time-Messaging-Application) - **Recommended** ✨
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=Interactive-Analytics-Dashboard-System)](https://github.com/ayat0110/Interactive-Analytics-Dashboard-System) - **Recommended** ✨
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=15-JavaScript-Projects)](https://github.com/ayat0110/15-JavaScript-Projects)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=NFT-and-Digital-Art-Trading-Marketplace)](https://github.com/ayat0110/NFT-and-Digital-Art-Trading-Marketplace)
+
+
 
 ## 📃 Latest IG Posts ![instagram](https://badges.aleen42.com/src/instagram.svg) 
 
