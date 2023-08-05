@@ -7,30 +7,30 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="23" height="23" /> [My Portfolio ](https://ayat-alzaidi.netlify.app/)
 
-Welcome to my profile! I'm just a random nerdy human being who like to write complex code and cry and yes I wear glasses, with a Bachelor's degree in Computer Engineering(yes I spent 4 years at hell but I manged to stay at the top). Here's a glimpse of tech cool stuff I'm working on at the moment:
+Welcome to my profile! I'm just a random nerdy human being who likes to write complex code and cry and yes I wear glasses, with a Bachelor's degree in Computer Engineering(yes I spent 4 years at hell but I managed to stay at the top). Here's a glimpse of tech cool stuff I'm working on at the moment:
 
 - 🔭 I’m currently working on developing complex real-world scenario projects with React js.
 - 🌱 I’m currently learning JavaScript to the deepest and understanding the background concepts for better problem-solving and faster debugging.
 -  I'm currently in the exciting process of job hunting, so don't hesitate to reach out – I'd be thrilled to bring some joy to your team!
-- 💬 Ask me about HTML5, CSS3, JavaScript, TypeScript, Git, Vue.js, Node.js, React, Python, Linux, Computer Networks and a bunch of stuff(don't ask me).
+- 💬 Ask me about HTML5, CSS3, JavaScript, TypeScript, Git, Vue.js, Node.js, React, Python, Linux, Computer Networks, and a bunch of stuff(don't ask me).
 - ⚡ Fun fact: I cry when I see a fat error in the console and then I usually find the solution of it when I'm in the shower also crying.
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" align="right">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ayat0110&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
-## 🍊 Ayat 's Github Profile
+## 🍊 Ayat's Github Profile
 As a devoted Front-End Magician, I'm on a quest to conjure up websites that dazzle and engage. My toolkit includes spells in JavaScript, React.js, Vue.js, and even a sprinkle of Next.js magic. 🪄✨
 I'm all about pushing the boundaries of my craft. You'll find me on a perpetual adventure of leveling up my skills, so I'm always on the cutting edge of web wizardry. 🎩🔮
 I have a proven track record of constantly improving my skills to stay at the forefront of the industry. My professional work experience in JavaScript and also in E-commerce projects allows me to create exceptional projects that deliver a seamless user experience. I excel in teamwork and have a quick learning curve, making me an asset to any project and company.
 
-I am the founder of the thriving community, FrontendSimply, which now connects over 24,000 members. Allows me to share my coding projects, inspire fellow developers, and do mentorship for beginners. This deep involvement not only fuels my passion and displine for coding but also encourages me to continuously expand my knowledge and skills. Ultimately, this continuous learning cycle greatly enhances my professional performance and growth.
+I am the founder of the thriving community, FrontendSimply, which now connects over 24,000 members. Allows me to share my coding projects, inspire fellow developers, and do mentorship for beginners. This deep involvement not only fuels my passion and discipline for coding but also encourages me to continuously expand my knowledge and skills. Ultimately, this continuous learning cycle greatly enhances my professional performance and growth.
 
 As an influencer and mentor, I share my knowledge and resources on social media to help aspiring developers learn how to code. My goal is to guide and motivate others to reach their full potential in this ever-evolving industry. Feel free to check out my projects and connect with me if you have any questions or are interested in collaborating.
 
 <img src="https://myreadme.vercel.app/api/embed/ayat0110?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
-# :rabbit: Punch of work i did
+# :rabbit: Punch of work I did
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=Real-Time-Messaging-Application)](https://github.com/ayat0110/Real-Time-Messaging-Application) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=Interactive-Analytics-Dashboard-System)](https://github.com/ayat0110/Interactive-Analytics-Dashboard-System) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=15-JavaScript-Projects)](https://github.com/ayat0110/15-JavaScript-Projects) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=NFT-and-Digital-Art-Trading-Marketplace)](https://github.com/ayat0110/NFT-and-Digital-Art-Trading-Marketplace)
 
@@ -43,8 +43,8 @@ As an influencer and mentor, I share my knowledge and resources on social media 
 
 <!-- BLOG-POST-LIST:START -->
 - [Decoding javascript: event loop](https://www.instagram.com/p/CuMpOAnNhZt/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
-- [What projects should i build as a frontend developer? ](https://www.instagram.com/p/CSCG9qvjIeN/)
-- [Did you ever asked yourself how much JS should i knew as a frontend developer ?](https://www.instagram.com/p/CRwEstCjVvf/)
+- [What projects should I build as a frontend developer? ](https://www.instagram.com/p/CSCG9qvjIeN/)
+- [Did you ever asked yourself how much JS should I know as a frontend developer ?](https://www.instagram.com/p/CRwEstCjVvf/)
 - [Should a frontend developer know DS&A ?](https://www.instagram.com/p/CRgnp-AjBd5/)
 
 <!-- BLOG-POST-LIST:END -->
