@@ -1,15 +1,14 @@
 
 
 # > Hi there, I'm Ayat Alzaidi <img src="https://user-images.githubusercontent.com/74038190/216124356-9c152f5b-554d-400c-a2f3-84f0f0b9a627.png" alt="Face with Hand Over Mouth" width="50" />
-- [My portfolio ](https://ayat-alzaidi.netlify.app/)
+- [My Portfolio ](https://ayat-alzaidi.netlify.app/)
 
-  Welcome to my profile! I'm [Your Name], a passionate developer from [Your Location]. Here are some quick things about me:
+Welcome to my profile! I'm a passionate software developer with a Bachelor's degree in Computer Engineering. Here's a glimpse of nerdy tech stuff I'm working on at the moment:
 
-- 🔭 I’m currently working on [Your Project or Job].
-- 🌱 I’m currently learning [Something Interesting].
-- 💬 Ask me about [Your Expertise].
-- 📫 How to reach me: [Your Contact Information].
-- ⚡ Fun fact: [Something Fun].
+- 🔭 I’m currently working on developing complex real-world scenario projects with React js.
+- 🌱 I’m currently learning JavaScript to the deepest and understanding the background concepts for better problem-solving and faster debugging.
+- 💬 Ask me about HTML5, CSS3, JavaScript, TypeScript, Git, Vue.js, Node.js, React, Python, Linux, Computer Networks and a bunch of stuff(don't ask me).
+- ⚡ Fun fact: I cry when I see a fat error in the console and then I usually find the solution of it when I'm in the shower also crying.
 
 ## GitHub Stats
 
