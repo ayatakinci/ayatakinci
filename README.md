@@ -10,10 +10,10 @@ Welcome to my profile! I'm just a random nerdy human being who like to write com
 - 💬 Ask me about HTML5, CSS3, JavaScript, TypeScript, Git, Vue.js, Node.js, React, Python, Linux, Computer Networks and a bunch of stuff(don't ask me).
 - ⚡ Fun fact: I cry when I see a fat error in the console and then I usually find the solution of it when I'm in the shower also crying.
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-## GitHub Stats
+##  GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ayat0110&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=ayat0110.ayat0110)
+
 ## 🍊 Ayat 's Github Profile
 Hello, I'm Ayat, a skilled Front-End Developer with a passion for building unique and engaging websites. I have a proven track record of constantly improving my skills to stay at the forefront of the industry. My experience in JavaScript, React.js, Vue.js, and Nuxt.js allows me to create exceptional projects that deliver a seamless user experience. I excel in teamwork and have a quick learning curve, making me an asset to any project.
 
