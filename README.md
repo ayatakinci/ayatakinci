@@ -33,13 +33,7 @@ As an influencer and mentor, I share my knowledge and resources on social media 
 
 # :trollface: Punch of work i did
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=Real-Time-Messaging-Application)](https://github.com/ayat0110/Real-Time-Messaging-Application) 
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=Interactive-Analytics-Dashboard-System)](https://github.com/ayat0110/Interactive-Analytics-Dashboard-System) 
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=15-JavaScript-Projects)](https://github.com/ayat0110/15-JavaScript-Projects)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=NFT-and-Digital-Art-Trading-Marketplace)](https://github.com/ayat0110/NFT-and-Digital-Art-Trading-Marketplace)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=Real-Time-Messaging-Application)](https://github.com/ayat0110/Real-Time-Messaging-Application)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=Interactive-Analytics-Dashboard-System)](https://github.com/ayat0110/Interactive-Analytics-Dashboard-System)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=15-JavaScript-Projects)](https://github.com/ayat0110/15-JavaScript-Projects)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=NFT-and-Digital-Art-Trading-Marketplace)](https://github.com/ayat0110/NFT-and-Digital-Art-Trading-Marketplace)
 
 
 
