@@ -7,7 +7,7 @@
 />
 ##  Hi there, I'm Ayat Alzaidi 
 
--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="23" height="23" /> [My Portfolio ](https://ayat-alzaidi.netlify.app/)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="23" height="23" /> [My Portfolio ](https://ayat-alzaidi.netlify.app/)
 
 Welcome to my profile! I'm just a random nerdy human being who like to write complex code and cry and yes I wear glasses, with a Bachelor's degree in Computer Engineering(yes I spent 4 years at hell but I manged to stay at the top). Here's a glimpse of tech cool stuff I'm working on at the moment:
 
