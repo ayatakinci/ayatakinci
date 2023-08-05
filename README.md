@@ -37,6 +37,8 @@ As an influencer and mentor, I share my knowledge and resources on social media 
 - [15 Javascript projects](https://github.com/ayat0110/15-JavaScript-Projects) 
 - [NFT and Digital Art Trading Marketplace ](https://github.com/ayat0110/NFT-and-Digital-Art-Trading-Marketplace) 
 - [Vue 3 Quiz App](https://github.com/ayat0110/Vue-3-Quiz-App)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/ayat0110/Real-Time-Messaging-Application)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/ayat0110/Interactive-Analytics-Dashboard-System)
 
 ## 📃 Latest IG Posts ![instagram](https://badges.aleen42.com/src/instagram.svg) 
 
