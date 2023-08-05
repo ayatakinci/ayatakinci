@@ -1,6 +1,7 @@
 
 
-# > Hi there, I'm Ayat Alzaidi <img
+# > Hi there, I'm Ayat Alzaidi
+<img
   src="https://github.com/ayat0110/ayat0110/assets/76471156/2c1953c9-4299-48ee-ac17-734d388c0841"
   width="25"
   height="25"
