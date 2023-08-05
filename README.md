@@ -2,6 +2,19 @@
 
 # > Hi there, I'm Ayat Alzaidi <img src="https://user-images.githubusercontent.com/74038190/216124356-9c152f5b-554d-400c-a2f3-84f0f0b9a627.png" alt="Face with Hand Over Mouth" width="50" />
 - [My portfolio ](https://ayat-alzaidi.netlify.app/)
+
+  Welcome to my profile! I'm [Your Name], a passionate developer from [Your Location]. Here are some quick things about me:
+
+- 🔭 I’m currently working on [Your Project or Job].
+- 🌱 I’m currently learning [Something Interesting].
+- 💬 Ask me about [Your Expertise].
+- 📫 How to reach me: [Your Contact Information].
+- ⚡ Fun fact: [Something Fun].
+
+## GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ayat0110&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=ayat0110.ayat0110)
 ## 🍊 Ayat 's Github Profile
 Hello, I'm Ayat, a skilled Front-End Developer with a passion for building unique and engaging websites. I have a proven track record of constantly improving my skills to stay at the forefront of the industry. My experience in JavaScript, React.js, Vue.js, and Nuxt.js allows me to create exceptional projects that deliver a seamless user experience. I excel in teamwork and have a quick learning curve, making me an asset to any project.
 
