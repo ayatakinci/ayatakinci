@@ -25,7 +25,7 @@ Hello, I'm Ayat, a skilled Front-End Developer with a passion for building uniqu
 I am the founder of the thriving community, FrontendSimply, which now connects over 24,000 members. Allows me to share my coding projects, inspire fellow developers, and do mentorship. This deep involvement not only fuels my passion for coding but also encourages me to continuously expand my knowledge and skills. Ultimately, this continuous learning cycle greatly enhances my professional performance and growth.
 
 As an influencer and mentor, I share my knowledge and resources on social media to help aspiring developers learn how to code. My goal is to guide and motivate others to reach their full potential in this ever-evolving industry. Feel free to check out my projects and connect with me if you have any questions or are interested in collaborating.
-
+<img src="https://myreadme.vercel.app/api/embed/ayat0110?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ## 🥳 Some of my projects
 
