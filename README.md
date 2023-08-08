@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="23" height="23" /> [My Portfolio ](https://ayat-alzaidi.netlify.app/)
 
-Welcome to my profile! I'm just a random nerdy human being who likes to write complex code and cry and yes I wear glasses, with a Bachelor's degree in Computer Engineering(yes I spent 4 years at hell but I managed to stay at the top). Here's a glimpse of tech cool stuff I'm working on at the moment:
+Welcome to my profile! I'm just a random nerdy human being who feels happy when writes code, with a Bachelor's degree in Computer Engineering(yes I spent 4 years at hell but I managed to stay at the top). Here's a glimpse of tech cool stuff I'm working on at the moment:
 
 - 🔭 I’m currently working on developing complex real-world scenario projects with React js.
 - 🌱 I’m currently learning JavaScript to the deepest and understanding the background concepts for better problem-solving and faster debugging.
