@@ -1,4 +1,4 @@
-##  Hi there, I'm Ayat Alzaidi 👋🏼
+##  Hi there, I'm Ayat Alzaidi 👋🏼✨
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="23" height="23" /> [My Portfolio ](https://ayat-alzaidi.netlify.app/)
 
