@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="23" height="23" /> [My Portfolio ](https://ayat-alzaidi.netlify.app/)
 
-Welcome to my profile! I'm just a random nerdy human being who feels happy when writes code, with a Bachelor's degree in Computer Engineering(yes I spent 4 years at hell but I managed to stay at the top). Here's a glimpse of tech cool stuff I'm working on at the moment:
+Welcome to my profile! I'm just a random nerdy human being who feels happy when write code and merge it with colors and pretty user interfaces, with a Bachelor's degree in Computer Engineering(yes I spent 4 years at hell but I managed to stay at the top). Here's a glimpse of tech cool stuff I'm working on at the moment:
 
 - 🔭 I’m continuing on developing complex real-world scenario projects with React js, and Vue.js.
 - 🌱 I’m currently learning JavaScript advanced topics and digging deep  into understanding the background concepts for better problem-solving and faster debugging.
@@ -14,7 +14,7 @@ Welcome to my profile! I'm just a random nerdy human being who feels happy when 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ayat0110&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
 ## 🍊 Ayat's Github Profile
-As a devoted Front-End Magician, I'm on a quest to conjure up websites that dazzle and engage. My toolkit includes spells in JavaScript, React.js, Vue.js, and even a sprinkle of Next.js magic. 🪄✨
+As a devoted Front-End Magician, I'm on a quest to conjure up websites that dazzle and engage. My toolkit includes spells in JavaScript, React.js, Vue.js, and sprinkles of front-end technologies magic. 🪄✨
 I'm all about pushing the boundaries of my craft. You'll find me on a perpetual adventure of leveling up my skills, so I'm always on the cutting edge of web wizardry. 🎩🔮
 I have a proven track record of constantly improving my skills to stay at the forefront of the industry. My professional work experience in JavaScript and also in E-commerce projects allows me to create exceptional projects that deliver a seamless user experience. I excel in teamwork and have a quick learning curve, making me an asset to any project and company.
 
