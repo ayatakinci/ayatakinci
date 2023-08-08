@@ -27,7 +27,7 @@ I am the founder of the thriving community, FrontendSimply, which now connects o
 
 As an influencer and mentor, I share my knowledge and resources on social media to help aspiring developers learn how to code. My goal is to guide and motivate others to reach their full potential in this ever-evolving industry. Feel free to check out my projects and connect with me if you have any questions or are interested in collaborating.
 
-<img src="https://myreadme.vercel.app/api/embed/ayat0110?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/ayat0110?panels=toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
 # :rabbit: Punch of work I did
