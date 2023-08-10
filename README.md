@@ -13,7 +13,7 @@ Welcome to my profile! I'm just a random nerdy human being who feels happy when 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ayat0110&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
-## 🍊 Ayat's Github Profile
+## ✨So, what do I do?✨
 As a devoted Front-End Magician, I'm on a quest to conjure up websites that dazzle and engage. My toolkit includes spells in JavaScript, React.js, Vue.js, and sprinkles of front-end technologies magic. 🪄✨
 I'm all about pushing the boundaries of my craft. You'll find me on a perpetual adventure of leveling up my skills, so I'm always on the cutting edge of web wizardry. 🎩🔮
 I have a proven track record of constantly improving my skills to stay at the forefront of the industry. My professional work experience in JavaScript and also in E-commerce projects allows me to create exceptional projects that deliver a seamless user experience. I excel in teamwork and have a quick learning curve, making me an asset to any project and company.
