@@ -1,4 +1,4 @@
-## ✨ Hi there, I'm Ayat Alzaidi 👋🏼✨
+## ✨ Hi there, I'm Ayat AKINCI 👋🏼✨
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> [My Portfolio ](https://ayat-alzaidi.netlify.app/)
 
 Welcome to my profile! I'm just a random nerdy human being who feels happy when write code and merge it with colors and pretty user interfaces, with a Bachelor's degree in Computer Engineering(yes I spent 4 years at hell but I managed to stay at the top). Here's a glimpse of tech cool stuff I'm working on at the moment:
