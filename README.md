@@ -10,7 +10,7 @@ Welcome to my profile! I'm just a random nerdy human being who feels happy when 
 - ⚡ Fun fact: I cry when I see a fat error in the console and then I usually find the solution when I'm in the shower.
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" align="right">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ayat0110&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ayatakinci&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
 ## ✨So, what do I do?✨
 As a devoted Front-End Magician, I'm on a quest to conjure up websites that dazzle and engage. My toolkit includes spells in JavaScript, React.js, Vue.js, and sprinkles of front-end technologies magic. 🪄✨
